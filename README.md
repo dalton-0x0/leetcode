@@ -1,12 +1,14 @@
-# LeetCode Solutions to Top Interview Questions
+# LeetCode
 
-Welcome to my LeetCode Solutions repository! This repository contains my solutions to various LeetCode problems. The solutions are written in [Your Preferred Language] and are organized by problem categories.
+Welcome to my LeetCode repository! This repository contains my solutions to LeetCode's Top Interview Questions. The solutions are written in [Your Preferred Language] and are organized by problem categories.
 
 ## Contents
 
-- [**Easy**](./easy): Solutions to easy-level problems <span style="background-color: green">[in progress]</span>
-- ~~[**Medium**](./medium): Solutions to medium-level problems~~ <mark>[to do]</mark>
-- ~~[**Hard**](./hard): Solutions to hard-level problems~~ <mark>[to do]</mark>
+| Category               | Description                        | Status               |
+| ---------------------- | ---------------------------------- | -------------------- |
+| [**Easy**](./easy)     | Solutions to easy-level problems   | [in progress]        |
+| [**Medium**](./medium) | Solutions to medium-level problems | <mark>[to do]</mark> |
+| [**Hard**](./hard)     | Solutions to hard-level problems   | <mark>[to do]</mark> |
 
 ## How to Use
 
@@ -36,4 +38,4 @@ This repository is licensed under the MIT License. See the [LICENSE file](LICENS
 
 ## Contact
 
-For any questions or suggestions, you can reach me via: [![Twitter](https://img.shields.io/badge/Twitter-@0x0dalton-blue?logo=twitter&logoColor=white)](https://x.com/0x0dalton)
+[![Twitter](https://img.shields.io/badge/Twitter-@0x0dalton-blue?logo=twitter&logoColor=white)](https://x.com/0x0dalton)
