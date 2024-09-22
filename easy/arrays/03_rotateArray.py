@@ -51,4 +51,3 @@ print('Test case 4:', nums_4)  # Output: [1, 2, 3, 4, 5, 6, 7]
 nums_5 = []
 rotateArray(nums_5, 5)  # Empty array remains unchanged
 print('Tese case 5:', nums_5)  # Output: []
- 
