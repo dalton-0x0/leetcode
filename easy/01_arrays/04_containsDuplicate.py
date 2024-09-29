@@ -27,7 +27,7 @@ test_nums = [1, 2, 3]
 print('containsDuplicate:', containsDuplicate(test_nums))  # Output: False
 
 # Alternative approach
-def containsDuplicate2(nums_arr):
+def containsDuplicate_2(nums_arr):
     # Sort the array
     nums_arr.sort()
 
@@ -40,6 +40,4 @@ def containsDuplicate2(nums_arr):
     # If no duplicates were found, return False
     return False
 
-# test for containsDuplicate2
-test_nums_2 = [1, 2, 3, 1]
-print('containsDuplicate2:', containsDuplicate2(test_nums_2))  # Output: True
+print('containsDuplicate2:', containsDuplicate_2(test_nums))  # Output: False
