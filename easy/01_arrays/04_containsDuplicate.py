@@ -40,4 +40,4 @@ def containsDuplicate_2(nums_arr):
     # If no duplicates were found, return False
     return False
 
-print('containsDuplicate2:', containsDuplicate_2(test_nums))  # Output: False
+print('containsDuplicate_2:', containsDuplicate_2(test_nums))  # Output: False
