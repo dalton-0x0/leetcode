@@ -6,7 +6,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 
 | Category               | Description                        | Status               |
 | ---------------------- | ---------------------------------- | -------------------- |
-| [**Easy**](./easy)     | Solutions to easy-level problems   | [in progress]        |
+| [**Easy**](easy)     | Solutions to easy-level problems   | [in progress]        |
 | [**Medium**](./medium) | Solutions to medium-level problems | <mark>[to do]</mark> |
 | [**Hard**](./hard)     | Solutions to hard-level problems   | <mark>[to do]</mark> |
 
